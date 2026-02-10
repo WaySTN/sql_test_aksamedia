@@ -4,7 +4,7 @@ Implementasi endpoint Laravel untuk menghitung dan menampilkan nilai siswa dari 
 
 ## 📌 Requirement
 
-- **Laravel** (v11)
+- **Laravel**
 - **MySQL / MariaDB**
 - **phpMyAdmin / Adminer / HeidiSQL**
 
